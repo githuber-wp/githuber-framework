@@ -1,17 +1,35 @@
-# Githuber Framework Plugin
+=== Githuber Framework ===
+Contributors: terrylin
+Tags: githuber
+Requires at least: 4.7
+Tested up to: 4.7
+Stable tag: 4.7
+Requires PHP: 5.6
+License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+
+== Description ==
 
 A WordPress plugin that improves [Githuber theme](https://github.com/terrylinooo/githuber) functionality.
+This plugin will not uploaded to WordPress plugin SVN server, you need to install it manually.
 
-- Widget: Table of Content.
-- Post type: GitHub Repository.
+* Widget: Table of Content.
+* Post type: GitHub Repository.
 
-## To do:
+== Changelog ==
 
-- Widget: Post status dashboard.
-- Plugin: Github oAuth + Only allow Github member to leave comments.
-- Plugin: Sync content to github page
-- Plugin: Markdown editor + preview.
+= 1.0.0
 
-## :mushroom: License
+* First release.
+
+== To do ==
+
+* Widget: Post status dashboard.
+* Plugin: Github oAuth + Only allow Github member to leave comments.
+* Plugin: Sync content to github page
+* Plugin: Markdown editor + preview.
+
+== License ==
 
 GPLv3 (or later)
+
